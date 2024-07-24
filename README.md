@@ -1,25 +1,25 @@
 
 <h1 align="center">🔲 CornStop 🔳</h1>
-
+<div id="1"></div>
 </p>
 <p align="center"> 
-  <a href="https://github.com/deltahmed/ARA-ROBOT">
-    <img src="https://img.shields.io/github/contributors/deltahmed/ARA-ROBOT.svg?style=for-the-badge" alt="deltahmed" /> </a>
-  <a href="https://github.com/deltahmed/ARA-ROBOT">
-    <img alt="" src="https://img.shields.io/github/issues/deltahmed/ARA-ROBOT.svg?style=for-the-badge">
+  <a href="https://github.com/deltahmed/CornStop">
+    <img src="https://img.shields.io/github/contributors/deltahmed/CornStop.svg?style=for-the-badge" alt="deltahmed" /> </a>
+  <a href="https://github.com/deltahmed/CornStop">
+    <img alt="" src="https://img.shields.io/github/issues/deltahmed/CornStop.svg?style=for-the-badge">
     </a>
-  <a href="https://github.com/deltahmed/ARA-ROBOT">
-    <img alt="" src="https://img.shields.io/github/forks/deltahmed/ARA-ROBOT.svg?style=for-the-badge"></a>
-  <a href="https://github.com/deltahmed/ARA-ROBOT">
-    <img alt="" src="https://img.shields.io/github/stars/deltahmed/ARA-ROBOT.svg?style=for-the-badge"></a>
-  <a href="https://raw.githubusercontent.com/deltahmed/ARA-ROBOT/master/LICENSE">
+  <a href="https://github.com/deltahmed/CornStop">
+    <img alt="" src="https://img.shields.io/github/forks/deltahmed/CornStop.svg?style=for-the-badge"></a>
+  <a href="https://github.com/deltahmed/CornStop">
+    <img alt="" src="https://img.shields.io/github/stars/deltahmed/CornStop.svg?style=for-the-badge"></a>
+  <a href="https://raw.githubusercontent.com/deltahmed/CornStop/master/LICENSE">
     <img src="https://img.shields.io/badge/License-BSD%202%20-blue?style=for-the-badge" alt="deltahmed" /> </a>
 </p>
 
 ## Language
 
-* [English](#table-of-contents)
-* [Français](#Table-des-Matières)
+* [English](#1)
+* [Français](#2)
 
 
 ## Table of Contents
@@ -54,8 +54,29 @@ this project is not serious so there is no documentation and was therefore coded
 ## Licence 
 ![Licence](https://img.shields.io/badge/License-BSD%202%20-blue?style=for-the-badge)
 
-##
+![Img](https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png)
+![Img](https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png)
+![Img](https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png)
+![Img](https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png)
+
+
+<div id="2"></div>
 <h1 align="center">🔲 CornStop - Français 🔳</h1>
+
+</p>
+<p align="center"> 
+  <a href="https://github.com/deltahmed/CornStop">
+    <img src="https://img.shields.io/github/contributors/deltahmed/CornStop.svg?style=for-the-badge" alt="deltahmed" /> </a>
+  <a href="https://github.com/deltahmed/CornStop">
+    <img alt="" src="https://img.shields.io/github/issues/deltahmed/CornStop.svg?style=for-the-badge">
+    </a>
+  <a href="https://github.com/deltahmed/CornStop">
+    <img alt="" src="https://img.shields.io/github/forks/deltahmed/CornStop.svg?style=for-the-badge"></a>
+  <a href="https://github.com/deltahmed/CornStop">
+    <img alt="" src="https://img.shields.io/github/stars/deltahmed/CornStop.svg?style=for-the-badge"></a>
+  <a href="https://raw.githubusercontent.com/deltahmed/CornStop/master/LICENSE">
+    <img src="https://img.shields.io/badge/License-BSD%202%20-blue?style=for-the-badge" alt="deltahmed" /> </a>
+</p>
 
 ## Table des Matières
 

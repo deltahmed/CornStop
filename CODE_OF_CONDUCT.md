@@ -1,0 +1,1 @@
+# Do not use this for dangerous, illegal or malicious purposes
