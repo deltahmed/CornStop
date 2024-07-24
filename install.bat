@@ -7,7 +7,7 @@ set "program_path=%startup_folder%\%program_name%"
 
 if exist "%program_path%" (
     del %program_path%
-echo delete reusis
+    echo ancien programme delete reussi
 )
 
 move "%batch_path%%program_name%" "%startup_folder%\%program_name%"
