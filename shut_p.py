@@ -23,7 +23,7 @@ def clear_keys():
 
 Thread(target=clear_keys).start()
 
-SEQUENCES = ["porn", "xvideo", "xvidéo","twerk","blowjob","xnxx", "xhamster", "redtube", "brazzers", "hentai", "yaoi", "rule34", "r34", "anal", "gangbang", "sex amateur", "amateur sex", "hardcore sex", "sex hardcore", "big ass"]
+SEQUENCES = [] #bad words
 sequence_indices = [0] * len(SEQUENCES)
 mots = ""
 mots2 = ""
